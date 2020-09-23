@@ -17,4 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 Result exercise:
 
-![Result excercise 3](excercise_3.png)
+![Result excercise_result_0](excercise_result_0.png)
+![Result excercise_result_1](excercise_result_1.png)
+![Result excercise_result_2](excercise_result_2.png)
+![Result excercise_result_3](excercise_result_3.png)
